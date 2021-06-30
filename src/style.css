@@ -1,0 +1,10 @@
+.properties {
+  cursor: grab;
+}
+body {
+  user-select: none;
+}
+.spriteWrapper {
+    position: relative;
+    margin: 38vh auto;
+}
